@@ -1,16 +1,20 @@
-README
-======
-What is this project for ?
---------------------------
-This project will create a binary executable file which when invoked will
-print **Hello World** on the terminal.
-Prerequisites
--------------
-* GCC (GNU Compiler collection)
-How to use
-----------
-Compile the source file and generate binary executable *hello* ::
-gcc hello_world.c -o hello
-Then execute ::
-./hello
+
+				SAFETY SYSTEM USING e-NOSE-Academic project of Amitha V.P,Ayana E.V and Mumthas S
+                              =====================================================================================
+
+			
+			What is this project for ?
+			--------------------------
+
+			This project will create a safety system for asthmatics.When the the environment is not suitable to them,
+			sensor system will detect it,and user will be alerted using android application.
+
+			Prerequisites
+			-------------	
+			Arduino IDE
+			Matlab
+			Android SDK
+			
+			
+			
 
